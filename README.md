@@ -15,3 +15,5 @@ you want to cook for - it then lets you add these ingredients to a shopping-list
 The application also utilizes Localstorage. You can like recipes by clicking on the heart icon - which
 then adds the recipe to a persistable list, that the user can access in the top, right-hand corner
 of the application.
+
+*Stylesheet not optimized for mobile*
