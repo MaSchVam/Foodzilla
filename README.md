@@ -1,8 +1,8 @@
 # Foodzilla
 
-###IMPORTANT! Due to the sudden discontinuation of the Food2Fork API, a lightweight version
-###has been moved to Heroku. Recipe search terms are therefore limited to "Pizza", "Pasta"
-###and "Salad" ( A little something for everyone ).
+### IMPORTANT! Due to the sudden discontinuation of the Food2Fork API, a lightweight version
+### has been moved to Heroku. Recipe search terms are therefore limited to "Pizza", "Pasta"
+### and "Salad" ( A little something for everyone ).
 
 Vanilla ES6+ App, that lets you search recipes from the Food2Fork API.
 
